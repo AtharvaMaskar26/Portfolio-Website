@@ -2,9 +2,9 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import rmtdevImg from "@/public/rmtdev.png";
 import gamehub from "@/public/gamehub.png"
 import cryptocharity from "@/public/cryptocharity.png"
+import epicCaptions from "@/public/epicCaptions.png"
 
 export const links = [
   {
@@ -73,7 +73,7 @@ export const projectsData = [
     description:
       " A caption generator website that helps you generate captions for your video within minutes wihthout any hassle.",
     tags: ["NextJS", "JavaScript", "Tailwind", "AWS Transcribe"],
-    imageUrl: rmtdevImg,
+    imageUrl: epicCaptions,
   },
   {
     title: "Crypto Charity",
